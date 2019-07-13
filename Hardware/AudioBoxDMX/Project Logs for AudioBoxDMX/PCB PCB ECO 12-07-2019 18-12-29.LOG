@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetF3_1 Pin=IN3-IN+
+Removed Pin From Net: NetName=NetIN3_IN- Pin=IN3-IN-
+Removed Pin From Net: NetName=NetF4_1 Pin=IN4-IN+
+Removed Pin From Net: NetName=NetIN4_IN- Pin=IN4-IN-
+Removed Pin From Net: NetName=NetF7_1 Pin=IN7-IN+
+Removed Pin From Net: NetName=NetIN7_IN- Pin=IN7-IN-
+Removed Pin From Net: NetName=NetF8_1 Pin=IN8-IN+
+Removed Pin From Net: NetName=NetIN8_IN- Pin=IN8-IN-
+Removed Pin From Net: NetName=NetF3_2 Pin=Input1-4-5
+Removed Pin From Net: NetName=NetInput1-4_6 Pin=Input1-4-6
+Removed Pin From Net: NetName=NetF4_2 Pin=Input1-4-7
+Removed Pin From Net: NetName=NetInput1-4_8 Pin=Input1-4-8
+Removed Pin From Net: NetName=NetF7_2 Pin=Input5-8-5
+Removed Pin From Net: NetName=NetInput5-8_6 Pin=Input5-8-6
+Removed Pin From Net: NetName=NetF8_2 Pin=Input5-8-7
+Removed Pin From Net: NetName=NetInput5-8_8 Pin=Input5-8-8
+Removed Pin From Net: NetName=NetInput1-4_6 Pin=R3-2
+Removed Pin From Net: NetName=NetInput1-4_8 Pin=R4-2
+Removed Pin From Net: NetName=NetIN7_IN- Pin=R7-1
+Removed Pin From Net: NetName=NetInput5-8_6 Pin=R7-2
+Removed Pin From Net: NetName=NetIN8_IN- Pin=R8-1
+Removed Pin From Net: NetName=NetIN3_IN- Pin=R11-1
+Removed Pin From Net: NetName=NetF3_1 Pin=R11-2
+Removed Pin From Net: NetName=NetIN4_IN- Pin=R12-1
+Removed Pin From Net: NetName=NetF4_1 Pin=R12-2
+Removed Pin From Net: NetName=NetIN7_IN- Pin=R15-1
+Removed Pin From Net: NetName=NetF7_1 Pin=R15-2
+Removed Pin From Net: NetName=NetIN8_IN- Pin=R16-1
+Removed Pin From Net: NetName=NetF8_1 Pin=R16-2
+Removed Member From Class: ClassName=Main Member=R3
+Removed Member From Class: ClassName=Main Member=R6
+Removed Member From Class: ClassName=Main Member=R8
+Removed Member From Class: ClassName=Main Member=R10
+Removed Member From Class: ClassName=Main Member=R11
+Removed Member From Class: ClassName=INA219Input Member=R18
+Removed Member From Class: ClassName=INA219Input Member=R19
+Removed Member From Class: ClassName=INA219Input Member=R20
+Added Pin To Net: NetName=NetIN3_IN- Pin=IN3-IN+
+Added Pin To Net: NetName=NetF3_1 Pin=IN3-IN-
+Added Pin To Net: NetName=NetIN4_IN- Pin=IN4-IN+
+Added Pin To Net: NetName=NetF4_1 Pin=IN4-IN-
+Added Pin To Net: NetName=NetInput1-4_8 Pin=IN7-IN+
+Added Pin To Net: NetName=NetF7_1 Pin=IN7-IN-
+Added Pin To Net: NetName=NetInput5-8_6 Pin=IN8-IN+
+Added Pin To Net: NetName=NetF8_1 Pin=IN8-IN-
+Added Pin To Net: NetName=NetIN7_IN- Pin=Input1-4-5
+Added Pin To Net: NetName=NetF3_2 Pin=Input1-4-6
+Added Pin To Net: NetName=NetIN8_IN- Pin=Input1-4-7
+Added Pin To Net: NetName=NetF4_2 Pin=Input1-4-8
+Added Pin To Net: NetName=NetInput1-4_6 Pin=Input5-8-5
+Added Pin To Net: NetName=NetF7_2 Pin=Input5-8-6
+Added Pin To Net: NetName=NetInput5-8_8 Pin=Input5-8-7
+Added Pin To Net: NetName=NetF8_2 Pin=Input5-8-8
+Added Pin To Net: NetName=NetIN7_IN- Pin=R3-2
+Added Pin To Net: NetName=NetIN8_IN- Pin=R4-2
+Added Pin To Net: NetName=NetInput1-4_8 Pin=R7-1
+Added Pin To Net: NetName=NetInput1-4_6 Pin=R7-2
+Added Pin To Net: NetName=NetInput5-8_6 Pin=R8-1
+Added Pin To Net: NetName=NetF3_1 Pin=R11-1
+Added Pin To Net: NetName=NetIN3_IN- Pin=R11-2
+Added Pin To Net: NetName=NetF4_1 Pin=R12-1
+Added Pin To Net: NetName=NetIN4_IN- Pin=R12-2
+Added Pin To Net: NetName=NetF7_1 Pin=R15-1
+Added Pin To Net: NetName=NetInput1-4_8 Pin=R15-2
+Added Pin To Net: NetName=NetF8_1 Pin=R16-1
+Added Pin To Net: NetName=NetInput5-8_6 Pin=R16-2
+Change Net Name : Old Net Name=NetIN3_IN- New Net Name=NetIN3_IN+
+Change Net Name : Old Net Name=NetIN4_IN- New Net Name=NetIN4_IN+
+Change Net Name : Old Net Name=NetIN7_IN- New Net Name=NetInput1-4_5
+Change Net Name : Old Net Name=NetIN8_IN- New Net Name=NetInput1-4_7
+Change Net Name : Old Net Name=NetInput1-4_6 New Net Name=NetInput5-8_5
+Change Net Name : Old Net Name=NetInput1-4_8 New Net Name=NetIN7_IN+
+Change Net Name : Old Net Name=NetInput5-8_6 New Net Name=NetIN8_IN+
+Change Net Name : Old Net Name=NetInput5-8_8 New Net Name=NetInput5-8_7
+Added Member To Class: ClassName=Main Member=Component R17 4k7
+Added Room: Name=INA219Input
+Added Room: Name=Main

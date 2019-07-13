@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=Atmega1 Old Footprint=Arduino Nano New Footprint=Arduino Nano
+Change Physical Footprint: Designator=C1 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C2 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C3 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C4 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C5 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C6 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=C7 Old Footprint=1" ceramic Radial Cap New Footprint=1" ceramic Radial Cap
+Change Physical Footprint: Designator=DMX1 Old Footprint=HDR1X3 New Footprint=HDR1X3
+Change Physical Footprint: Designator=IN1 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN2 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN3 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN4 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN5 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN6 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN7 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
+Change Physical Footprint: Designator=IN8 Old Footprint=INA219-D-SOIC New Footprint=INA219-D-SOIC
