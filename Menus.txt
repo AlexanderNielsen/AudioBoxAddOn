@@ -1,0 +1,47 @@
+MainMenu()
+  01234567890123456789 
+0 ARMED         19.4 V
+1 
+2 Flame On Time: 5.45s
+3 Antenne Boost: OFF
+
+
+USBUploade:
+  01234567890123456789 
+0  External USB Mode:
+1 Script transferring 
+2 
+3 Release ! to return
+
+
+
+PowerOffWarning()
+  01234567890123456789 
+0       Warning!
+1 Power Switch flipped
+2 Press & Hold Encoder
+3 To Confirm Shutdown
+
+
+Batterywarning()
+  01234567890123456789 
+0       Warning!
+1  Battery level low
+2        18,4V 
+3 Press !! to continue
+
+
+Arm warning:
+  01234567890123456789 
+0       Warning!
+1   Remote is Armed!
+2 Arming Fire machines
+3 Press !! to continue
+
+
+Disarm warning:
+  01234567890123456789 
+0       Warning!
+1  Remote is Disarmed
+2 Firemachines are off
+3 Press !! to continue

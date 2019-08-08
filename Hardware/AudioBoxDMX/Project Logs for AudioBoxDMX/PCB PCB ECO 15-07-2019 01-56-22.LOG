@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=SDA Pin=R17-1
+Removed Pin From Net: NetName=5v Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=NetR18_2 Pin=R18-2
+Removed Pin From Net: NetName=B Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=SCL Pin=R20-1
+Removed Pin From Net: NetName=5v Pin=R20-2
+Removed Pin From Net: NetName=A Pin=R21-1
+Removed Pin From Net: NetName=B Pin=R21-2
+Removed Pin From Net: NetName=5v Pin=R22-1
+Removed Pin From Net: NetName=A Pin=R22-2
+Removed Pin From Net: NetName=NetR18_2 Pin=U1-1
+Removed Pin From Net: NetName=5v Pin=U1-2
+Removed Pin From Net: NetName=5v Pin=U1-3
+Removed Pin From Net: NetName=DI Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=A Pin=U1-6
+Removed Pin From Net: NetName=B Pin=U1-7
+Removed Pin From Net: NetName=5v Pin=U1-8
+Removed Member From Class: ClassName=Main Member=DMX1
+Removed Member From Class: ClassName=Main Member=R17
+Removed Member From Class: ClassName=Main Member=R18
+Removed Member From Class: ClassName=Main Member=R21
+Removed Member From Class: ClassName=Main Member=R22
+Removed Member From Class: ClassName=Main Member=R23
+Removed Member From Class: ClassName=Main Member=R24
+Removed Member From Class: ClassName=Main Member=U2
+Change Component Comment : Designator=R21 Old Comment=120 New Comment=10K
+Change Component Designator: OldDesignator=Input1-4 NewDesignator=Input1
+Change Component Designator: OldDesignator=Input5-8 NewDesignator=Input2
+Change Component Designator: OldDesignator=PwrSW NewDesignator=PwrSW1
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=ST2p? NewDesignator=ST1
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=R9(Axial 0.3" 1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(Axial 0.3" 1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R23(Axial 0.3" 1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R24(Axial 0.3" 1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(DIP8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SDA Pin=R9-1
+Added Pin To Net: NetName=5v Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=R10-1
+Added Pin To Net: NetName=5v Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetR18_2 Pin=R21-2
+Added Pin To Net: NetName=B Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=A Pin=R23-1
+Added Pin To Net: NetName=B Pin=R23-2
+Added Pin To Net: NetName=5v Pin=R24-1
+Added Pin To Net: NetName=A Pin=R24-2
+Added Pin To Net: NetName=NetR18_2 Pin=U2-1
+Added Pin To Net: NetName=5v Pin=U2-2
+Added Pin To Net: NetName=5v Pin=U2-3
+Added Pin To Net: NetName=DI Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=A Pin=U2-6
+Added Pin To Net: NetName=B Pin=U2-7
+Added Pin To Net: NetName=5v Pin=U2-8
+Change Net Name : Old Net Name=NetInput1-4_1 New Net Name=NetInput1_1
+Change Net Name : Old Net Name=NetInput1-4_3 New Net Name=NetInput1_3
+Change Net Name : Old Net Name=NetInput1-4_6 New Net Name=NetInput1_6
+Change Net Name : Old Net Name=NetInput1-4_8 New Net Name=NetInput1_8
+Change Net Name : Old Net Name=NetInput5-8_1 New Net Name=NetInput2_1
+Change Net Name : Old Net Name=NetInput5-8_3 New Net Name=NetInput2_3
+Change Net Name : Old Net Name=NetInput5-8_6 New Net Name=NetInput2_6
+Change Net Name : Old Net Name=NetInput5-8_8 New Net Name=NetInput2_8
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR21_2
+Added Class: Name=DMX-Out
+Added Member To Class: ClassName=INA219Input Member=Component R17 0.33
+Added Member To Class: ClassName=INA219Input Member=Component R18 0.33
